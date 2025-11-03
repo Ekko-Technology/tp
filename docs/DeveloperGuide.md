@@ -46,7 +46,7 @@ This Developer Guide follows the general structure and documentation practices u
 
 ## Setting up, getting started
 
-Refer to the project README for setup instructions: [README.md](../README.md)
+Refer to the project README for setup instructions: [README.md](https://github.com/Ekko-Technology/tp/blob/master/README.md)
 
 ## Design
 
